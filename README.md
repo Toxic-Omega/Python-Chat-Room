@@ -16,4 +16,4 @@ python3 Client.py
 
 
 For server:
-python server.py
+python Server.py
