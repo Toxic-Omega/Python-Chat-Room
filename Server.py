@@ -1,14 +1,17 @@
 #!/usr/bin/env python3
+#Developer Haxer159
 """Server for multithreaded (asynchronous) chat application."""
 from socket import AF_INET, socket, SOCK_STREAM
 from threading import Thread
+import os
+import time
 
-
+os.system
 def accept_incoming_connections():
     """Sets up handling for incoming clients."""
     while True:
         client, client_address = SERVER.accept()
-        print("%s:%s has connected." % client_address)
+        print("Handler [*] %s:%s Joined the server!" % client_address)
         client.send(bytes("Type your name and press enter!", "utf8"))
         addresses[client] = client_address
         Thread(target=handle_client, args=(client,)).start()
@@ -49,7 +52,17 @@ SERVER.bind(ADDR)
 
 if __name__ == "__main__":
     SERVER.listen(5)
-    print("Waiting for connection...")
+    os.system("color a")
+    print(" ")
+    print("------------------------------------------------")
+    print(" [*] Please wait...")
+    time.sleep(.300)
+    print(" [*] Server sucesfully started.")
+    time.sleep(.300)
+    print(" [*] Waiting for incoming connections.")
+    print("------------------------------------------------")
+    print(" ")
+    os.system("color 2")
     ACCEPT_THREAD = Thread(target=accept_incoming_connections)
     ACCEPT_THREAD.start()
     ACCEPT_THREAD.join()
