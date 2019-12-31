@@ -1,4 +1,16 @@
 # Python-Chat-Room
 This is simple python chat room.
 
-It has GUI too!
+---Install---
+
+cd Desktop
+git clone https://github.com/haxer159/Python-Chat-Room
+cd Python-Chat-Room
+
+
+For client:
+python3 Client.py
+
+
+For server:
+python server.py
