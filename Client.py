@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
+#Developer Haxer159
 """Script for Tkinter GUI chat client."""
 from socket import AF_INET, socket, SOCK_STREAM
 from threading import Thread
 import tkinter
+import os
+import time
 
 
 def receive():
@@ -54,8 +57,15 @@ send_button.pack()
 top.protocol("WM_DELETE_WINDOW", on_closing)
 
 #----Now comes the sockets part----
-HOST = input('Here type the ip of the server: ')
-PORT = input('Here type the port of the server (Default port is 2222) : ')
+os.system("color a")
+time.sleep(.300)
+print("---------------------------------------------------------------")
+HOST = input(' [*] Here type the ip of the server: ')
+print("---------------------------------------------------------------")
+time.sleep(.300)
+PORT = input(' [*] Here type the port of the server (Default port is 2222) : ')
+time.sleep(.300)
+os.system("color 2")
 print("---------------------------------------------------------------")
 print("You are now sucesfully conected to the server!     :D")
 print("---------------------------------------------------------------")
