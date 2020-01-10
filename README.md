@@ -22,7 +22,7 @@ To start Client type in terminal "python3 Client.py"
 __________________________________________________________
 If you found problems, let me know.
 __________________________________________________________
-Screenshot
+Screenshots
 <br>
 <p align="center">
 <img width="40%" src="https://github.com/Toxic-Omega/Python-Chat-Room/blob/master/Screenshot/Linux%202.png"/>
@@ -31,5 +31,4 @@ Screenshot
 <img width="40%" src="https://github.com/Toxic-Omega/Python-Chat-Room/blob/master/Screenshot/Windows.png"/>
 </p>
 <br>
-Screenshot
 __________________________________________________________
