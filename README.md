@@ -31,4 +31,3 @@ Screenshots
 <img width="40%" src="https://github.com/Toxic-Omega/Python-Chat-Room/blob/master/Screenshot/Windows.png"/>
 </p>
 <br>
-__________________________________________________________
