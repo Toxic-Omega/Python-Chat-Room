@@ -10,6 +10,7 @@ __________________________________________________________
 5. "cd Desktop/Python-Chat-Room"
 
 To start Server type in cmd "python Server.py"
+
 To start Client type in cmd "python Client.py"
 
 ---How To Install On Linux---
@@ -18,6 +19,7 @@ To start Client type in cmd "python Client.py"
 2. cd Python-Chat-Room
 
 To start Server type in terminal "python Server.py"
+
 To start Client type in terminal "python3 Client.py"
 __________________________________________________________
 If you found problems, let me know.
