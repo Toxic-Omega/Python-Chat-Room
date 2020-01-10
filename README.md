@@ -16,7 +16,8 @@ To start Client type in cmd "python Client.py"
 
 1. git clone https://github.com/Toxic-Omega/Python-Chat-Room
 2. cd Python-Chat-Room
-3. 
-4. 
+
+To start Server type in terminal "python Server.py"
+To start Client type in terminal "python3 Client.py"
 __________________________________________________________
 If you found problems, let me know.
