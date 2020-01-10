@@ -1,23 +1,22 @@
 # Python-Chat-Room
-This is simple python chat room.
--------------------
----Install---
+__________________________________________________________
+This python script works only on linux/windows...
+__________________________________________________________
+---How To Install On Windows---
 
-cd Desktop
+2. Download Python-Chat-Room.zip
+3. Extract Python-Chat-Room.zip to desktop
+4. Type in cmd:
+5. "cd Desktop/Python-Chat-Room"
 
-git clone https://github.com/haxer159/Python-Chat-Room
+To start Server type in cmd "python Server.py"
+To start Client type in cmd "python Client.py"
 
-cd Python-Chat-Room
+---How To Install On Linux---
 
--------------------
-For client:
-python3 Client.py
--------------------
-For server:
-python Server.py
--------------------
-Problems
-1. On linux "exit" doesn't work...
-2. On linux colors doesn't work...
--------------------
+1. git clone https://github.com/Toxic-Omega/Python-Chat-Room
+2. cd Python-Chat-Room
+3. 
+4. 
+__________________________________________________________
 If you found problems, let me know.
