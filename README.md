@@ -21,7 +21,8 @@ To start Server type in terminal "python Server.py"
 To start Client type in terminal "python3 Client.py"
 __________________________________________________________
 If you found problems, let me know.
-
+__________________________________________________________
+Screenshot
 <br>
 <p align="center">
 <img width="40%" src="https://github.com/Toxic-Omega/Python-Chat-Room/blob/master/Screenshot/Linux%202.png"/>
@@ -30,3 +31,5 @@ If you found problems, let me know.
 <img width="40%" src="https://github.com/Toxic-Omega/Python-Chat-Room/blob/master/Screenshot/Windows.png"/>
 </p>
 <br>
+Screenshot
+__________________________________________________________
